@@ -118,12 +118,3 @@ If you find this project helpful, consider giving it a ⭐️ on [GitHub](https:
 ```
 
 ---
-
-### Points mis à jour :
-1. **Lien du dépôt GitHub** : Remplacé par `https://github.com/DRAGON154A/ChronoPy.git`.
-2. **Section Author** :
-   - Nom d'utilisateur GitHub : `@DRAGON154A`.
-   - Email : `ateufoarthur@gmail.com`.
-3. **Lien pour soutenir le projet** : Ajout d'un lien direct vers le dépôt pour encourager les étoiles.
-
----
