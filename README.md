@@ -1,12 +1,12 @@
 
 ---
 
-```markdown
 # ChronoPy ⏱️
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+<br>
 
 **ChronoPy** is a simple and efficient Python class to measure the execution time of your programs. It provides a clean and easy-to-use interface to track time in hours, minutes, seconds, and milliseconds.
 
@@ -43,6 +43,7 @@ To use **ChronoPy**, simply clone this repository or copy the `Chrono` class int
 git clone https://github.com/DRAGON154A/ChronoPy.git
 cd ChronoPy
 ```
+
 
 ---
 
